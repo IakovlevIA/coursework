@@ -1,9 +1,3 @@
-/*
- * energy_and_mean_functions.h
- *
- *  Created on: 15 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef ENERGY_AND_MEAN_FUNCTIONS_H_
 #define ENERGY_AND_MEAN_FUNCTIONS_H_

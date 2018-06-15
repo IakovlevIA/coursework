@@ -1,9 +1,3 @@
-/*
- * initialization_of_impulses.h
- *
- *  Created on: 16 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef INITIALIZATION_OF_IMPULSES_H_
 #define INITIALIZATION_OF_IMPULSES_H_

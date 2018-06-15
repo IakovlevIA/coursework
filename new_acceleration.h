@@ -1,9 +1,3 @@
-/*
- * new_acceleration.h
- *
- *  Created on: 15 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef NEW_ACCELERATION_H_
 #define NEW_ACCELERATION_H_

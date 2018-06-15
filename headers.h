@@ -1,9 +1,3 @@
-/*
- * headers.h
- *
- *  Created on: 16 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef HEADERS_H_
 #define HEADERS_H_

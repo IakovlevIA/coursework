@@ -1,9 +1,3 @@
-/*
- * initialization_of_accelerations.h
- *
- *  Created on: 15 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef INITIALIZATION_OF_ACCELERATIONS_H_
 #define INITIALIZATION_OF_ACCELERATIONS_H_

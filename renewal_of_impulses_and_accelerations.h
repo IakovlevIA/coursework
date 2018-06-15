@@ -1,9 +1,3 @@
-/*
- * renewal_of_impulses_and_accelerations.h
- *
- *  Created on: 15 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef RENEWAL_OF_IMPULSES_AND_ACCELERATIONS_H_
 #define RENEWAL_OF_IMPULSES_AND_ACCELERATIONS_H_

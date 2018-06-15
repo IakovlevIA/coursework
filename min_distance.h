@@ -1,9 +1,3 @@
-/*
- * min_distance.h
- *
- *  Created on: 15 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef MIN_DISTANCE_H_
 #define MIN_DISTANCE_H_

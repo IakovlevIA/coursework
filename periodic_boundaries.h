@@ -1,9 +1,3 @@
-/*
- * periodic_boundaries.h
- *
- *  Created on: 15 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef PERIODIC_BOUNDARIES_H_
 #define PERIODIC_BOUNDARIES_H_

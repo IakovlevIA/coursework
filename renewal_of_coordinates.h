@@ -1,9 +1,3 @@
-/*
- * renewal_of_coordinates.h
- *
- *  Created on: 15 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef RENEWAL_OF_COORDINATES_H_
 #define RENEWAL_OF_COORDINATES_H_

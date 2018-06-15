@@ -1,9 +1,3 @@
-/*
- * initialization_of_coordinates.h
- *
- *  Created on: 15 июня 2018 г.
- *      Author: deamonde
- */
 
 #ifndef INITIALIZATION_OF_COORDINATES_H_
 #define INITIALIZATION_OF_COORDINATES_H_
