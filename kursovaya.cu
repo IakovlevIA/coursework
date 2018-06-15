@@ -15,8 +15,6 @@ int main(void) {
 	begin = fopen("begin.dat", "w");
 	end = fopen("end.dat", "w");
 	double dt, p0, lattice_constant,
-	px_rand, py_rand, pz_rand,
-	last_px = 0, last_py = 0, last_pz = 0,
 	epsilon, sigma, T = 0, kb=1,
 	kin_E, pot_E, total_E, V, R, Lx,
 	max_valuex, max_valuey, max_valuez;
