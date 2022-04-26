@@ -5,7 +5,7 @@ definition of variables:
 
 n - number of particles along x and y directions of initial lattice;
 
-nz - number of particles along z and y directions of initial lattice;
+nz - number of particles along z direction of initial lattice;
 
 iter - number of time steps;
 
